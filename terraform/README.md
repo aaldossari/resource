@@ -4,7 +4,7 @@
 
 ## Prerequisites
 
-* [AWS account](https://portal.aws.amazon.com/billing/signup?nc2=h_ct&src=default&redirect_url=https%3A%2F%2Faws.amazon.com%2Fregistration-confirmation#/start)
+* [AWS account](https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/)
 * Download and [configure AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html)
 * Download [Terraform](https://learn.hashicorp.com/tutorials/terraform/install-cli)
 * clone this repo:
